@@ -1,2 +1,16 @@
-# lite-logging
-源码解读
+# liteLogging
+
+
+# 说明
+基于python2.7
+
+
+# 工作流程图
+![logging flow](https://docs.python.org/3/_images/logging_flow.png)
+
+
+# 类图
+![](https://s3.bmp.ovh/imgs/2021/08/712062004cec9eab.jpeg)
+
+# 时序图
+![](https://s3.bmp.ovh/imgs/2021/08/fdebad2a00bff85d.png)
