@@ -2,7 +2,7 @@
 
 
 # 说明
-基于python2.7
+基于python2.7,logging版本0.5.1.2
 
 
 # 工作流程图
